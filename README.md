@@ -15,7 +15,7 @@
 
 ### How to run each command:
 
-1. `node liri.js spotify-this-song '<song name here>'`
+1. `node liri spotify-this '<song name here>'`
 
     * This will show the following information about the song in your terminal/bash window
 
@@ -27,7 +27,7 @@
     ```
 
 
-2. `node liri.js movie-this '<movie name here>'`
+2. `node liri movie-this '<movie name here>'`
 
     * This will output the following information to your terminal/bash window:
 
@@ -43,6 +43,6 @@
      ```
 
 
-3. `node liri.js do-what-it-says`
+3. `node liri do-what-it-says`
 
         * LIRI will take the text inside of random.txt and then use it to call the `<spotify-this>` command.
