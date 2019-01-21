@@ -4,7 +4,7 @@
 ### Video example: https://youtu.be/5nEAwYiEL3Q
 
 
-###File liri.js can take in one of the following commands:
+### File liri.js can take in one of the following commands:
 
     * `spotify-this`
 
