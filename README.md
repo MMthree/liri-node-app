@@ -19,19 +19,19 @@
 
     * This will show the following information about the song in your terminal/bash window
 
-    
+    ```
         * Artist(s)
         * The song's name
         * A preview link of the song from Spotify
         * The album that the song is from
-    
+    ```
 
 
 2. `node liri.js movie-this '<movie name here>'`
 
     * This will output the following information to your terminal/bash window:
 
-     
+     ```
         * Title of the movie.
         * Year the movie came out.
         * IMDB Rating of the movie.
@@ -40,7 +40,7 @@
         * Language of the movie.
         * Plot of the movie.
         * Actors in the movie.
-     
+     ```
 
 
 3. `node liri.js do-what-it-says`
