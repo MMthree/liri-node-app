@@ -23,7 +23,7 @@
         * The album that the song is from
     ```
 
-<p><img src="./public/images/fc_home_preview.png" alt="Full Circle Preview" width="650"></p>
+<p><img src="./liri.gif" alt="Liri App Preview" width="650"></p>
 
 2. `node liri movie-this '<movie name here>'`
 
