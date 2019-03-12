@@ -1,9 +1,6 @@
 # Liri Node App
 
 
-### Video example: https://youtu.be/5nEAwYiEL3Q
-
-
 ### File liri.js can take in one of the following commands:
 
     * `spotify-this`
@@ -26,6 +23,7 @@
         * The album that the song is from
     ```
 
+<p><img src="./public/images/fc_home_preview.png" alt="Full Circle Preview" width="650"></p>
 
 2. `node liri movie-this '<movie name here>'`
 
